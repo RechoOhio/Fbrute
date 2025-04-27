@@ -1,2 +1,1 @@
 # Fbrute
-# for educational purposes 
